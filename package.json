@@ -1,0 +1,24 @@
+{
+  "name": "remove-time-from-iso-string",
+  "version": "1.0.0",
+  "description": "Remove time from an ISO string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylorbryant/remove-time-from-iso-string.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "javascript"
+  ],
+  "author": "Taylor Bryant <taylor@bryant.io> (https://bryant.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taylorbryant/remove-time-from-iso-string/issues"
+  },
+  "homepage": "https://github.com/taylorbryant/remove-time-from-iso-string#readme"
+}
